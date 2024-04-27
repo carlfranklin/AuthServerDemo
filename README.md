@@ -1,5 +1,11 @@
 # Basic Authentication and Authorization
 
+## Overview:
+
+Create a new .NET 8 Blazor Server application with authentication and role-based authorization.
+
+For instructions on how to achieve this in a .NET 7 Blazor Server app, see https://github.com/carlfranklin/BasicAuth
+
 In this module you will learn:
 
 1. How to use the built-in AspNetCore.Identity system to allow users to register and log in
